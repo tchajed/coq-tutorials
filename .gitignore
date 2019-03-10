@@ -1,0 +1,23 @@
+/build
+/bin
+/doc/html
+/.lia.cache
+/*/.stack-work
+*.cabal
+
+# emacs
+*.aux
+*.*~
+
+# vim
+*.swp
+
+# CoqIDE files
+\#*#
+
+# Coq compiled files
+*.vo
+*.v.d
+*.glob
+.coqdeps.d
+_CoqProject
